@@ -1,0 +1,27 @@
+/* src/ReturnCalculator.css */
+.return-calculator {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  .input-section .ant-picker,
+  .input-section .ant-input-number,
+  .input-section .ant-btn {
+    margin: 0 10px;
+  }
+  
+  .result-section {
+    margin-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    max-width: 1.56re;
+    background-color: rgb(199, 215, 99);
+    color: rgb(15, 15, 15);
+  }
+  

@@ -1,0 +1,38 @@
+    .Funds-table{
+        padding: 20px;
+        background-color: #277956;
+        border-radius: 8px;
+        max-width: 800px;
+        margin: auto;
+        align-self: start;
+        align-items: center;
+
+    }
+
+    h2{
+        color:black;
+    }
+
+    .inner-table{
+        padding: 10px;
+        background-color: rgb(238, 115, 99);
+        border-radius: 12px;
+    }
+
+    .pagination{
+        padding-top: 12.5px;
+        align-items: center;
+        justify-content: center;
+        column-width: 5px;
+    }
+    .search-result{
+        color: rgb(14, 1, 1);
+        padding: 10px 12.5px;
+        border-radius: 20px;
+        background-color: rgb(229, 152, 152);
+        text-align: left;
+    }
+    .date{
+        padding: 10px;
+        font-size: 2rem;
+    }
